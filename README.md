@@ -1,4 +1,4 @@
-# calculator
+# TipCalculator
 
 A new Flutter application.
 
